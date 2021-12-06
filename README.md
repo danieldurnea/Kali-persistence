@@ -1,0 +1,2 @@
+# Kali-persistence shell script
+
