@@ -1,2 +1,2 @@
 # Kali-persistence
-Make kali persistent
+Make kali persistence shell script
